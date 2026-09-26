@@ -1,0 +1,13 @@
+company,role,pathway,location,minimum_ucas,minimum_maths,python_useful,data_useful,communication_useful
+Demo Analytics,Data Science Apprentice,Data,London,112,6,1,1,1
+Demo Digital,Software Developer Apprentice,Software,London,112,5,1,0,1
+Demo Security,Cybersecurity Apprentice,Cybersecurity,London,104,5,1,1,1
+Demo Consulting,Technology Consultant Apprentice,Technology Management,London,112,5,0,1,1
+Demo Retail,Data Analyst Apprentice,Data,Greater London,96,4,1,1,1
+Demo Cloud,Software Engineer Apprentice,Software,Greater London,120,6,1,0,1
+Demo Networks,Security Analyst Apprentice,Cybersecurity,Greater London,96,4,0,1,1
+Demo Public Services,Digital Project Apprentice,Technology Management,Greater London,96,4,0,1,1
+Demo Research,Data Science Apprentice,Data,Manchester,128,6,1,1,1
+Demo Apps,Software Developer Apprentice,Software,Manchester,104,5,1,0,1
+Demo Finance,Cybersecurity Apprentice,Cybersecurity,Birmingham,112,6,1,1,1
+Demo Infrastructure,Technology Management Apprentice,Technology Management,Birmingham,104,5,0,1,1
